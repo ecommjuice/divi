@@ -1,9 +1,7 @@
-.ecj-pre-h1, .ecj-pre-h1 * {
-	font-size:1.5rem !important;
+/*ECJ Inversión de gerarquia visual. En un bloque de titular reducimos el tamaño de la etiqueta H */
+.ecj-pretitle, .ecj-pretitle * {
+	font-size:1.25rem !important;
 	font-weight:normal;}
-.ecj-h1-small * {
-	font-size:5rem !important;
-	line-height:4.5rem;}
 
 
 /*ECJ Menú móvil sin toggle*/
