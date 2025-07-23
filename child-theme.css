@@ -1,4 +1,4 @@
-/*ECJ Inversión de gerarquia visual. En un bloque de titular reducimos el tamaño de la etiqueta H */
+/*ECJ Inversión de gerarquia visual etiqueta H. Hacemos H más grande que P */
 .ecj-pretitle, .ecj-pretitle * {
 	font-size:1.25rem !important;
 	font-weight:normal;}
